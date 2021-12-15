@@ -21,3 +21,4 @@ This is a bug tracker designed as a learning exercise and to add to my portfolio
 |docs/*description*|Used when working on documentation|
 |feat/*description*|Used when creating a new feature|
 |fix/*description*|Used when fixing a bug|
+|dir/*description*|Used when modifying the directories|
